@@ -14,11 +14,7 @@
 
 | Student Name | Student Email | GitHub Username |        Role         |
 |    :---:     |     :---:     |     :---:       |        :---:        | 
-| Jose Avila      |   javila6@mail.sfsu.edu           | H0esway19                |   Team Lead         |
-| Andy Shi    | ashi2@mail.sfsu.edu              | AndyShi1010                |   Frontend Lead     |
-| Leo Saeteurn      |  lsaeteurn@mail.sfsu.edu            | Lsaeteurn               |   Backend Lead      |
-| Nishit Pachchigar     | npachchigar@mail.sfsu.edu              |  NishitPachchigar               |   Github Master     |
-| Joshua Hayes   |jhayes10@sfsu.edu            | jhayes23                |   Database Master   |
+
 | Gautami Kollolu Srinivasa    | gkollolusrinivasa@sfsu.edu            |  gautamigudla             |   Document Editor   |
 
 
